@@ -1,0 +1,6 @@
+
+#General settings.
+[General]
+	#Should the recipes with buckets be automatically updated to work with More Buckets buckets?
+	enableRecipeFixer = true
+

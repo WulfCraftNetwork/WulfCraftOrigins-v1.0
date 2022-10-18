@@ -1,0 +1,8 @@
+
+#General mod settings
+[general]
+	#A developer of this mod has defined this config option with a blank comment, which causes obscure bugs in Forge's config system and will cause a crash in the future. Please report this to the mod author.
+	client_renderBlood = true
+	#A developer of this mod has defined this config option with a blank comment, which causes obscure bugs in Forge's config system and will cause a crash in the future. Please report this to the mod author.
+	client_debugSensesVisual = false
+

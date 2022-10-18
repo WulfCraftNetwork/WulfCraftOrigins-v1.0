@@ -1,0 +1,9 @@
+
+[Deposits]
+	#Size multiplier to be applied to all deposits
+	#Range: 0.0 ~ 10.0
+	globalSizeMultiplier = 1.0
+	#Spawn rate multiplier to be applied to all deposits
+	#Range: 0.0 ~ 10.0
+	globalSpawnRateMultiplier = 1.0
+

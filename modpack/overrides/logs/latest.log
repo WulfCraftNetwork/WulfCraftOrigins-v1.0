@@ -1,0 +1,1280 @@
+[18:12:22] [main/INFO]: ModLauncher running: args [--username, TheRealWulf, --version, forge-43.1.43, --gameDir, C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins, --assetsDir, C:\Users\zawul\Documents\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, 71b35e0aca7046f28b2834beb0e51f46, --accessToken, ????????, --clientId, ZDAyOWRjNmUtZjRlMi00NDMyLWE1ZmEtNzMwNmFkZGJmODhh, --xuid, 2535462422584736, --userType, msa, --versionType, release, --width, 2560, --height, 1440, --launchTarget, forgeclient, --fml.forgeVersion, 43.1.43, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[18:12:22] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[18:12:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/zawul/Documents/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[18:12:24] [main/INFO]: Found mod file abnormals_delight-1.19-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AdditionalBanners-Forge-1.19.2-10.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file additionallanterns-1.0.1a-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AdLods-1.19.2-7.0.4.0-build.0599.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AdvancementPlaques-1.19.2-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AI-Improvements-1.19.2-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file alexsmobs-1.20.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AmbientSounds_FORGE_v5.2.5_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Aquaculture-1.19.2-2.4.7.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file architectury-6.2.46-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file artifacts-1.19.2-5.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AttributeFix-Forge-1.19.2-17.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file AutoRegLib-1.8-54.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file bagofyurting-1.19.1-3.0.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file balm-4.5.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file BedBenefits-Forge-1.19.2-9.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file BetterAdvancements-1.19.2-0.2.2.142.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file betteranimalsplus-1.19-11.0.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file BetterAnimationsCollection-v4.0.3-1.19.2-Forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file BetterCompatibilityChecker-1.0.8-build.36+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file BetterF3-4.0.0-Forge-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file blue_skies-1.19.2-1.3.20.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file blueprint-1.19.2-6.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.1.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file buildersaddition-1.19.2-20220926a.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file buildinggadgets-3.16.1-build.15+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file canary-mc1.19.2-0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file cfm-7.0.0-pre34-1.19.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file chat_heads-0.7.1-forge-1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file chococraft-1.19.2-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Chunky-1.3.38.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file citadel-1.13.3-1.19.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file clienttweaks-forge-1.19-8.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file cloth-config-8.2.88-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Clumps-forge-1.19.2-9.0.0+11.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file CNB-1.19-1.4.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file CodeChickenLib-1.19.2-4.3.0.470-universal.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file collective-1.19.2-5.8.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ColouredTooltips-Forge-1.19.2-18.1.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file configured-2.0.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+6.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file cookingforblockheads-forge-1.19.2-13.2.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file coroutil-1.19.2-1.2.37.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file craftingtweaks-forge-1.19-15.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file CraftTweaker-forge-1.19.2-10.0.12.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file crashutilities-6.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file create-1.19.2-0.5.0.f.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file createplus-1.19.2_v0.5.2a.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file CreativeCore_FORGE_v2.8.7_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file creeperoverhaul-2.0.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Croptopia-1.19.2-FORGE-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Cucumber-1.19.2-6.0.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Cyclic-1.19.2-1.7.11.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DamageTilt-1.19-forge-0.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DarkPaintings-Forge-1.19.2-13.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DarkUtilities-Forge-1.19.2-13.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Decorative Blocks-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file defaultoptions-forge-1.19-15.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DeLogger-4.7.0-build.9+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Ding-1.19.2-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DivineRPG-1.9.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.64-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DungeonCrawl-1.19-2.3.11.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file dungeons_plus-1.19.2-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file DungeonsArise-1.19-2.1.51-beta.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file dynview-1.19.1-2.9.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file EarthMobs-1.19.2-3.2.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file EasyMagic-v4.3.2-1.19.2-Forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file elevatorid-1.19-1.8.7.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file emojiful-1.19-3.1.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.19.2-13.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file endercrop-1.19.2-1.7.0-beta.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file EnderStorage-1.19.2-2.10.1.181-universal.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file endertanks-1.19-1.12.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file endrem_forge-5.2.0-R-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Enhanced_Celestials-forge-1.19-2.1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file EnhancedVisuals_FORGE_v1.5.8_mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file entityculling-forge-1.5.2-mc1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file everycomp-1.19.2-2.0.7.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file extremesoundmuffler-3.32_forge-1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file fancymenu_forge_2.12.3_MC_1.19-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file farmingforblockheads-forge-1.19-11.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file farsight-1.19.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file FastFurnace-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file FastLeafDecay-30.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Fastload-Reforged-1.2.1+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file FastSuite-1.19.2-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file FastWorkbench-1.19.2-7.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ForgeEndertech-1.19.2-10.0.5.0-build.0599.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file FpsReducer2-forge-1.19.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file GameMenuModOption-1.19-1.18.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.27.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file glassential-forge-1.19-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file goblintraders-1.8.0-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file gravestone-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file guardvillagers-1.19.2-1.5.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file hunterillager-1.19.2-6.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Iceberg-1.19.2-forge-1.0.48.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file illagersweararmor-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file infernal-expansion-1.19.2-2.5.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file infernalmobs-1.19.2.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file InsaneLib-1.6.2-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file InventoryHud_[1.19.2].forge-3.4.6.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file inventorysorter-1.19.2-21.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ironchest-1.19.2-14.2.7.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ironfurnaces-1.19.2-3.6.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file itlt-1.19.x-2.1.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ItShallNotTick-1.0.11-build.35.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Jade-1.19.1-forge-8.3.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file jeed-1.19.2-1.17.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file jei-1.19.2-forge-11.3.0.271.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file jmi-forge-1.19.2-0.13-30.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file journeymap-1.19.1-5.9.0beta2-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.19-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.1.0.179.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file justmobheads_1.19.2-6.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file justplayerheads_1.19.2-2.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file justzoom_forge_1.0.1-1_MC_1.19.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Kiwi-1.19.1-forge-8.1.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file konkrete_forge_1.5.2_MC_1.19-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file konkrete_forge_1.5.3_MC_1.19-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file logprot-1.19.1-1.8.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-bridges-2.0.5-mc1.19.2forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-doors-1.0.7-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-fences-1.0.6-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-furniture-3.0.2-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-lights-1.0.4-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-roofs-2.2.1-mc1.19.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mcw-trapdoors-1.0.7-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file moonlight-1.19.2-2.0.37.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file More Babies-forge-1.19.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file MoreBuckets-1.19.1-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file moredragoneggs-3.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file morevillagers-forge-1.19-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file mvs-3.1.4.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file MyServerIsCompatible-1.19-1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file MysticalAgriculture-1.19.2-6.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file naturalist-forge-2.1.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file NaturesCompass-1.19.2-1.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file NekosEnchantedBooks-1.19-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file netherportalfix-forge-1.19-10.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file NoChatReports-FORGE-1.19.2-v1.4.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file OreExcavation-1.11.166.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Paintings-forge-1.19.2-10.2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Patchouli-1.19.2-77.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Paxi-1.19.2-Forge-3.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file PickUpNotifier-v4.2.0-1.19.2-Forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file PigPen-Forge-1.19.2-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Placebo-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file platforms-1.19-1.10.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file pluto-mc1.19.2-0.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file pmmo-1.19-0.5.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file polymorph-forge-0.45.0+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ProgressiveBosses-3.7.1-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file PuzzlesLib-v4.3.11-1.19.2-Forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Quark-3.3-371.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file QuarkOddities-1.18.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file reliquary-1.19.2-2.0.20.1166.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file repurposed_structures_forge-6.3.2+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file rubidium-0.6.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Runelic-Forge-1.19.2-14.1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file saturn-mc1.19.2-0.0.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file savage_and_ravage-1.19-5.0.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ScalingHealth-1.19.2-7.0.0+6.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file scuba_gear-1.19-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file SereneSeasons-1.19.2-8.1.0.21.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file shetiphiancore-1.19-3.11.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file shutupexperimentalsettings-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file silent-lib-1.19.2-7.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file SimpleDiscordRichPresence-forge-3.0.2-build.23+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file smoothboot(reloaded)-mc1.19.2-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file smoothchunk-1.19.1-2.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file SnowRealMagic-1.19.2-forge-5.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file SoL-Carrot-1.19.2-1.14.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file sophisticatedbackpacks-1.19.2-3.18.29.719.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file sophisticatedcore-1.19.2-0.5.13.134.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file stalwart-dungeons-1.19.2-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file starlight-1.1.1+forge.cf5b10b.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Structory-1.19-1.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file structure_gel-1.19.2-2.7.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file supermartijn642corelib-1.0.19a-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file supplementaries-1.19.2-2.2.7.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file swingthroughgrass-1.19.2-1.10.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.128.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Terralith_v2.3.5.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file textrues_rubidium_options-1.0.3-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file The_Graveyard_1.12_(FORGE)_for_1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Tips-Forge-1.19.2-8.0.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ToastControl-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file totw_additions-1.2.3-1.19.x-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file ToughAsNails-1.19-8.0.0.78.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file Towns-and-Towers-1.19-1.8.2.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file transparent-5.1.2+1.19-forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file twilightforest-1.19-4.2.1421-universal.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file villagernames_1.19.2-4.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file VisualWorkbench-v4.2.0-1.19.2-Forge.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file voicechat-forge-1.19.2-2.3.10.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file waystones-forge-1.19-11.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file xptome-1.19-2.1.6.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsApi-1.19.2-Forge-3.8.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBetterDesertTemples-1.19.2-Forge-2.2.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBetterDungeons-1.19.2-Forge-3.2.1.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsBridges-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file YungsExtras-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/INFO]: Found mod file zombieawareness-1.19.2-1.12.3.jar of type MOD with provider {mods folder locator at C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\mods}
+[18:12:24] [main/WARN]: Mod file C:\Users\zawul\Documents\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.1.43\fmlcore-1.19.2-43.1.43.jar is missing mods.toml file
+[18:12:24] [main/WARN]: Mod file C:\Users\zawul\Documents\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.1.43\javafmllanguage-1.19.2-43.1.43.jar is missing mods.toml file
+[18:12:24] [main/WARN]: Mod file C:\Users\zawul\Documents\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.1.43\lowcodelanguage-1.19.2-43.1.43.jar is missing mods.toml file
+[18:12:24] [main/WARN]: Mod file C:\Users\zawul\Documents\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.1.43\mclanguage-1.19.2-43.1.43.jar is missing mods.toml file
+[18:12:24] [main/INFO]: Found mod file fmlcore-1.19.2-43.1.43.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1c025cb
+[18:12:24] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.1.43.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1c025cb
+[18:12:24] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.1.43.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1c025cb
+[18:12:24] [main/INFO]: Found mod file mclanguage-1.19.2-43.1.43.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1c025cb
+[18:12:24] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1c025cb
+[18:12:24] [main/INFO]: Found mod file forge-1.19.2-43.1.43-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1c025cb
+[18:12:24] [main/INFO]: Found 5 dependencies adding them to mods collection
+[18:12:24] [main/INFO]: Found mod file velocity-native-3.1.2-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@b10a26d
+[18:12:24] [main/INFO]: Found mod file MixinExtras-0.1.0-rc5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@b10a26d
+[18:12:24] [main/INFO]: Found mod file expandability-forge-7.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@b10a26d
+[18:12:24] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.7-8.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@b10a26d
+[18:12:24] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@b10a26d
+[18:12:29] [main/INFO]: Compatibility level set to JAVA_17
+[18:12:29] [main/ERROR]: Mixin config reeses_sodium_options.mixins.json does not specify "minVersion" property
+[18:12:30] [main/ERROR]: Mixin config itshallnottick.mixins.json does not specify "minVersion" property
+[18:12:30] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[18:12:30] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[18:12:30] [main/INFO]: Successfully loaded Mixin Connector [com.aizistral.nochatreports.MixinConnector]
+[18:12:30] [main/INFO]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[18:12:30] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[18:12:30] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.1.43, --gameDir, C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins, --assetsDir, C:\Users\zawul\Documents\curseforge\minecraft\Install\assets, --uuid, 71b35e0aca7046f28b2834beb0e51f46, --username, TheRealWulf, --assetIndex, 1.19, --accessToken, ????????, --clientId, ZDAyOWRjNmUtZjRlMi00NDMyLWE1ZmEtNzMwNmFkZGJmODhh, --xuid, 2535462422584736, --userType, msa, --versionType, release, --width, 2560, --height, 1440]
+[18:12:30] [main/INFO]: Loaded configuration file for Rubidium: 29 options available, 0 override(s) found
+[18:12:30] [main/WARN]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:30] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:30] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:30] [main/INFO]: Loaded configuration file for Canary: 104 options available, 0 override(s) found
+[18:12:30] [main/WARN]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:30] [main/WARN]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:30] [main/INFO]: OptiFine was NOT detected.
+[18:12:30] [main/INFO]: OptiFabric was NOT detected.
+[18:12:30] [main/WARN]: Reference map 'everycomp.refmap.json' for everycomp-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:30] [main/WARN]: Reference map 'everycomp.refmap.json' for everycomp.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:12:31] [main/WARN]: Error loading class: net/minecraft/client/renderer/item/ItemProperties$static$1 (java.lang.ClassNotFoundException: net.minecraft.client.renderer.item.ItemProperties$static$1)
+[18:12:31] [main/WARN]: @Mixin target net.minecraft.client.renderer.item.ItemProperties$static$1 was not found infernal-expansion.mixins.json:client.MixinItemProperties
+[18:12:32] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[18:12:32] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[18:12:32] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/FTBChunksClient (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.client.FTBChunksClient)
+[18:12:32] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.FTBChunksClient was not found jmi.mixins.json:FTBChunksClientMixin
+[18:12:32] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/map/UpdateChunkFromServerTask (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.client.map.UpdateChunkFromServerTask)
+[18:12:32] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.map.UpdateChunkFromServerTask was not found jmi.mixins.json:UpdateFromServerTaskMixin
+[18:12:33] [main/INFO]: !!! SOME LOGGERS HAVE MOVED TO THE DEBUG FILE (Please Include them in your bug reports) !!!
+[18:12:34] [main/INFO]: Mixing server.MixinPlayer from nochatreports.mixins.json into net.minecraft.world.entity.player.Player
+[18:12:35] [main/INFO]: Mixing client.MixinLocalPlayer from nochatreports.mixins.json into net.minecraft.client.player.LocalPlayer
+[18:12:35] [main/INFO]: Mixing client.MixinChatScreen from nochatreports.mixins.json into net.minecraft.client.gui.screens.ChatScreen
+[18:12:35] [main/INFO]: Renaming synthetic method lambda$onInit$1(Lcom/aizistral/nochatreports/core/ServerSafetyLevel;Lnet/minecraft/client/gui/components/Button;Lcom/mojang/blaze3d/vertex/PoseStack;II)V to mda289a1$lambda$onInit$1$0 in nochatreports.mixins.json:client.MixinChatScreen
+[18:12:35] [main/INFO]: Renaming synthetic method lambda$onInit$0(Lnet/minecraft/client/gui/components/Button;)V to mda289a1$lambda$onInit$0$1 in nochatreports.mixins.json:client.MixinChatScreen
+[18:12:38] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[18:12:39] [pool-3-thread-1/WARN]: @ModifyConstant conflict. Skipping repurposed_structures.mixins.json:structures.StructurePoolMixin->@ModifyConstant::repurposedstructures_increaseWeightLimitDev(I)I with priority 1000, already redirected by yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
+[18:12:39] [pool-3-thread-1/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzl000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:12:40] [Render thread/WARN]: Assets URL 'union:/C:/Users/zawul/Documents/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23359!/assets/.mcassetsroot' uses unexpected schema
+[18:12:40] [Render thread/WARN]: Assets URL 'union:/C:/Users/zawul/Documents/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23359!/data/.mcassetsroot' uses unexpected schema
+[18:12:41] [Render thread/INFO]: Setting user: TheRealWulf
+[18:12:41] [Render thread/INFO]: Mixing client.MixinToastComponent from nochatreports.mixins.json into net.minecraft.client.gui.components.toasts.ToastComponent
+[18:12:41] [Render thread/INFO]: Mixing client.MixinOptions from nochatreports.mixins.json into net.minecraft.client.Options
+[18:12:41] [Render thread/INFO]: Renaming synthetic method lambda$onlyShowSecureChat$1(Ljava/lang/Boolean;)V to mda289a1$lambda$onlyShowSecureChat$1$0 in nochatreports.mixins.json:client.MixinOptions
+[18:12:41] [Render thread/INFO]: Renaming synthetic method lambda$onlyShowSecureChat$0(Lnet/minecraft/network/chat/Component;Ljava/lang/Boolean;)Lnet/minecraft/network/chat/Component; to mda289a1$lambda$onlyShowSecureChat$0$1 in nochatreports.mixins.json:client.MixinOptions
+[18:12:41] [Render thread/INFO]: Loaded default options for extra-folder
+[18:12:41] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Sound Events Registered!
+[18:12:42] [modloading-worker-0/INFO]: Better Compatibility Checker loading
+[18:12:42] [modloading-worker-0/INFO]: Constructing common components for mod pickupnotifier
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Blocks Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Items Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Effects Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Potions Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Entity Types Registered!
+[18:12:42] [modloading-worker-0/WARN]: Method overwrite conflict for extractPools in enhancedcelestials.mixins.json:MixinLootTableManager, previously written by potionstudios.byg.mixin.common.world.level.storage.loot.MixinLootTableManager. Skipping method.
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Painting Types Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Tile Entity Types Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Biomes Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Loot Modifiers Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Biome Modifiers Registered!
+[18:12:42] [modloading-worker-0/INFO]: Infernal Expansion: Entity Classifications Registered!
+[18:12:43] [modloading-worker-0/INFO]: Initializing Update Checker...
+[18:12:43] [ Iron Furnaces Update Checker/INFO]: Starting Update Check...
+[18:12:43] [ Iron Furnaces Update Checker/INFO]: Update Check done!
+[18:12:43] [ Iron Furnaces Update Checker/INFO]: Iron Furnaces is up to date!
+[18:12:43] [modloading-worker-0/INFO]: Constructing client components for mod visualworkbench
+[18:12:43] [modloading-worker-0/INFO]: Constructing client components for mod betteranimationscollection
+[18:12:43] [modloading-worker-0/INFO]: Constructing common components for mod visualworkbench
+[18:12:43] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (merchantNames in net.blay09.mods.farmingforblockheads.FarmingForBlockheadsConfigData)
+[18:12:43] [modloading-worker-0/INFO]: Mixing server.MixinPlayerList from nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[18:12:43] [modloading-worker-0/INFO]: Loading config...
+[18:12:43] [modloading-worker-0/INFO]: Mixing forge.client.MixinClientConnection from nochatreports.mixins.json into net.minecraft.network.Connection
+[18:12:43] [modloading-worker-0/INFO]: Mixing client.MixinJoinMultiplayerScreen from nochatreports.mixins.json into net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+[18:12:43] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/client/gui/components/Button;Lcom/mojang/blaze3d/vertex/PoseStack;II)V to mda289a1$lambda$onInit$1$0 in nochatreports.mixins.json:client.MixinJoinMultiplayerScreen
+[18:12:43] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onInit$0(Lnet/minecraft/client/gui/components/Button;)V to mda289a1$lambda$onInit$0$1 in nochatreports.mixins.json:client.MixinJoinMultiplayerScreen
+[18:12:43] [modloading-worker-0/INFO]: Mixing client.AccessorDisconnectedScreen from nochatreports.mixins.json into net.minecraft.client.gui.screens.DisconnectedScreen
+[18:12:43] [modloading-worker-0/INFO]: Constructing common components for mod betteranimationscollection
+[18:12:43] [modloading-worker-0/INFO]: loading json file and contents for paintings.
+[18:12:43] [modloading-worker-0/INFO]: **Paintings++ no longer copies the base file outside if the mod. **
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting abstract_blue , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting abstract_rainbow , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting abstract_red , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting abstract_sunset , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting arachnophobe , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting barn_owl , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting big_z , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting blue_bird , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting bluesclues , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting borgia , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting cane , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting cat_black , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting cat_gray , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting cat_orange , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting cat , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting colorful_squares , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting crest , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting danger_zone , 32 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting decorative_gun , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting exit_down , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting exit_up , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting exit_left , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting exit_right , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_bat , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_chicken , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_cow , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_creeper , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_dog , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_enderman , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_pig , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_pigman , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_silverfish , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_skeleton , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_squid , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting face_zombie , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting fishes , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting flowers , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting fruits , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting ghost , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting glowlamp , 32 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting glowstone_hourglass , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting iluvmc , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting link , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting mine_prosperity , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting no_trespassing_for_mobs , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting ocelot , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting penguin , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting pig_on_a_cliff , 32 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting pkmn_blue , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting pkmn_red , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting pkmn_green , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting plains_hut , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting portrait_2 , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting portrait , 32 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting prison , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting prosperity , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting rest , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting skeleton , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting sky , 32 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting skyblock , 32 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting snake , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting snow_landscape , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting subaraki , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting synth_city , 16 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting tapistry_a , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting tapistry_b , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting tapistry_purple , 16 x 32
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting torched , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting waterfall , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting whale , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting wheat_field , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Loaded json painting wolf_in_wheat , 32 x 16
+[18:12:43] [modloading-worker-0/INFO]: Reading out ResourcePacks to find painting related json files
+[18:12:43] [modloading-worker-0/INFO]: Reading `Infernal Resources.zip`
+[18:12:43] [modloading-worker-0/INFO]: Reading `Quark Programmer Art.zip`
+[18:12:43] [modloading-worker-0/INFO]: No shaders mod detected.
+[18:12:43] [modloading-worker-0/INFO]: Forge mod loading, version 43.1.43, for MC 1.19.2 with MCP 20220805.130853
+[18:12:43] [modloading-worker-0/INFO]: MinecraftForge v43.1.43 Initialized
+[18:12:43] [modloading-worker-0/INFO]: Constructing common components for mod puzzleslib
+[18:12:44] [Modding Legacy/blue_skies/Supporters thread/INFO]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[18:12:44] [modloading-worker-0/INFO]: Loaded config file.
+[18:12:44] [modloading-worker-0/INFO]: Saved config file.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[18:12:44] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[18:12:44] [Modding Legacy/blue_skies/Supporters thread/INFO]: Successfully loaded the Modding Legacy supporters list.
+[18:12:44] [modloading-worker-0/INFO]: Processing 3 KiwiModule annotations
+[18:12:44] [modloading-worker-0/INFO]: [KONKRETE] Successfully initialized!
+[18:12:44] [modloading-worker-0/INFO]: [KONKRETE] Server-side libs ready to use!
+[18:12:44] [modloading-worker-0/WARN]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
+[18:12:45] [modloading-worker-0/INFO]: Loaded config file.
+[18:12:45] [modloading-worker-0/INFO]: Saved config file.
+[18:12:45] [modloading-worker-0/INFO]: Setting up discord client
+[18:12:45] [modloading-worker-0/INFO]: Constructing client components for mod easymagic
+[18:12:45] [modloading-worker-0/INFO]: Constructing common components for mod easymagic
+[18:12:45] [modloading-worker-0/INFO]: Here we go! Launching Dungeon Crawl 2.3.11...
+[18:12:45] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[18:12:45] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[18:12:45] [pool-4-thread-1/INFO]: Discord client ready
+[18:12:45] [modloading-worker-0/INFO]: Mixing forge.client.MixinClientPacketListener from nochatreports.mixins.json into net.minecraft.client.multiplayer.ClientPacketListener
+[18:12:46] [modloading-worker-0/INFO]: Mixing server.MixinServerGamePacketListenerImpl from nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[18:12:46] [modloading-worker-0/INFO]: Backing up itlt config just in case...
+[18:12:46] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[18:12:46] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[18:12:46] [modloading-worker-0/INFO]: itlt config backup completed successfully
+[18:12:46] [modloading-worker-0/INFO]: Loaded config file.
+[18:12:46] [modloading-worker-0/INFO]: Saved config file.
+[18:12:46] [modloading-worker-0/INFO]: detectedConfigVersion: 2.1.5
+[18:12:46] [modloading-worker-0/INFO]: Removing backup as no migration is necessary
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ShulkerPackingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreNoteBlockSounds
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[18:12:46] [modloading-worker-0/INFO]: [BetterF3] Starting...
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[18:12:46] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[18:12:46] [modloading-worker-0/INFO]: [BetterF3] Loading...
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[18:12:46] [modloading-worker-0/INFO]: [BetterF3] All done!
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.CameraModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.ZombieVillagersOnNormalModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SawModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.WoolShutsUpMinecartsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[18:12:46] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[18:12:47] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybind
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[18:12:47] [modloading-worker-0/INFO]: [FANCYMENU] Loading v2.12.3 in client-side mode!
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RawMetalBricksModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[18:12:47] [modloading-worker-0/INFO]: [FANCYMENU] Level registry interactions allowed!
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.JapanesePaletteModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[18:12:47] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[18:12:47] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[18:12:47] [modloading-worker-0/INFO]: Injecting super coyotes...
+[18:12:47] [modloading-worker-0/INFO]: Registering C2S receiver with id betteranimalsplus:main_channel/23ca639241d73eaf919246602470f295
+[18:12:47] [modloading-worker-0/INFO]: Registering S2C receiver with id betteranimalsplus:main_channel/23ca639241d73eaf919246602470f295
+[18:12:47] [modloading-worker-0/INFO]: Registering C2S receiver with id betteranimalsplus:main_channel/d8f3c48219d933a6b2302c4d780df514
+[18:12:47] [modloading-worker-0/INFO]: Registering S2C receiver with id betteranimalsplus:main_channel/d8f3c48219d933a6b2302c4d780df514
+[18:12:47] [modloading-worker-0/INFO]: Registering C2S receiver with id betteranimalsplus:main_channel/dd94e2f3f0db361b8621d0f834adec1b
+[18:12:47] [modloading-worker-0/INFO]: Registering S2C receiver with id betteranimalsplus:main_channel/dd94e2f3f0db361b8621d0f834adec1b
+[18:12:47] [modloading-worker-0/INFO]: Registering C2S receiver with id betteranimalsplus:main_channel/59f1974289d63eb58cbd6fe813098096
+[18:12:47] [modloading-worker-0/INFO]: Registering S2C receiver with id betteranimalsplus:main_channel/59f1974289d63eb58cbd6fe813098096
+[18:12:47] [modloading-worker-0/INFO]: Registering C2S receiver with id betteranimalsplus:main_channel/fd8d1482ead03ca8a9954263aa7f6289
+[18:12:47] [modloading-worker-0/INFO]: Registering S2C receiver with id betteranimalsplus:main_channel/fd8d1482ead03ca8a9954263aa7f6289
+[18:12:47] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+[18:12:48] [modloading-worker-0/INFO]: [DivineRPG] Registered events
+[18:12:48] [modloading-worker-0/INFO]: [DivineRPG] Registered networking
+[18:12:48] [modloading-worker-0/INFO]: Mixing server.MixinServerStatus from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[18:12:48] [Render thread/INFO]: Dispatching Module Step REGISTER
+[18:12:49] [Render thread/INFO]: Dispatching Module Step POST_REGISTER
+[18:13:03] [Render thread/INFO]: Registering Compat Wood Blocks
+[18:13:20] [Render thread/INFO]: Registering Compat Leaves Blocks
+[18:13:20] [Render thread/INFO]: Registered 4382 compat blocks making up 32.804314% of total blocks registered
+[18:13:20] [Render thread/INFO]: Registered variant abstract_blue
+[18:13:20] [Render thread/INFO]: Registered variant abstract_rainbow
+[18:13:20] [Render thread/INFO]: Registered variant abstract_red
+[18:13:20] [Render thread/INFO]: Registered variant abstract_sunset
+[18:13:20] [Render thread/INFO]: Registered variant arachnophobe
+[18:13:20] [Render thread/INFO]: Registered variant barn_owl
+[18:13:20] [Render thread/INFO]: Registered variant big_z
+[18:13:20] [Render thread/INFO]: Registered variant blue_bird
+[18:13:20] [Render thread/INFO]: Registered variant bluesclues
+[18:13:20] [Render thread/INFO]: Registered variant borgia
+[18:13:20] [Render thread/INFO]: Registered variant cane
+[18:13:20] [Render thread/INFO]: Registered variant cat_black
+[18:13:20] [Render thread/INFO]: Registered variant cat_gray
+[18:13:20] [Render thread/INFO]: Registered variant cat_orange
+[18:13:20] [Render thread/INFO]: Registered variant cat
+[18:13:20] [Render thread/INFO]: Registered variant colorful_squares
+[18:13:20] [Render thread/INFO]: Registered variant crest
+[18:13:20] [Render thread/INFO]: Registered variant danger_zone
+[18:13:20] [Render thread/INFO]: Registered variant decorative_gun
+[18:13:20] [Render thread/INFO]: Registered variant exit_down
+[18:13:20] [Render thread/INFO]: Registered variant exit_up
+[18:13:20] [Render thread/INFO]: Registered variant exit_left
+[18:13:20] [Render thread/INFO]: Registered variant exit_right
+[18:13:20] [Render thread/INFO]: Registered variant face_bat
+[18:13:20] [Render thread/INFO]: Registered variant face_chicken
+[18:13:20] [Render thread/INFO]: Registered variant face_cow
+[18:13:20] [Render thread/INFO]: Registered variant face_creeper
+[18:13:20] [Render thread/INFO]: Registered variant face_dog
+[18:13:20] [Render thread/INFO]: Registered variant face_enderman
+[18:13:20] [Render thread/INFO]: Registered variant face_pig
+[18:13:20] [Render thread/INFO]: Registered variant face_pigman
+[18:13:20] [Render thread/INFO]: Registered variant face_silverfish
+[18:13:20] [Render thread/INFO]: Registered variant face_skeleton
+[18:13:20] [Render thread/INFO]: Registered variant face_squid
+[18:13:20] [Render thread/INFO]: Registered variant face_zombie
+[18:13:20] [Render thread/INFO]: Registered variant fishes
+[18:13:20] [Render thread/INFO]: Registered variant flowers
+[18:13:20] [Render thread/INFO]: Registered variant fruits
+[18:13:20] [Render thread/INFO]: Registered variant ghost
+[18:13:20] [Render thread/INFO]: Registered variant glowlamp
+[18:13:20] [Render thread/INFO]: Registered variant glowstone_hourglass
+[18:13:20] [Render thread/INFO]: Registered variant iluvmc
+[18:13:20] [Render thread/INFO]: Registered variant link
+[18:13:20] [Render thread/INFO]: Registered variant mine_prosperity
+[18:13:20] [Render thread/INFO]: Registered variant no_trespassing_for_mobs
+[18:13:20] [Render thread/INFO]: Registered variant ocelot
+[18:13:20] [Render thread/INFO]: Registered variant penguin
+[18:13:20] [Render thread/INFO]: Registered variant pig_on_a_cliff
+[18:13:20] [Render thread/INFO]: Registered variant pkmn_blue
+[18:13:20] [Render thread/INFO]: Registered variant pkmn_red
+[18:13:20] [Render thread/INFO]: Registered variant pkmn_green
+[18:13:20] [Render thread/INFO]: Registered variant plains_hut
+[18:13:20] [Render thread/INFO]: Registered variant portrait_2
+[18:13:20] [Render thread/INFO]: Registered variant portrait
+[18:13:20] [Render thread/INFO]: Registered variant prison
+[18:13:20] [Render thread/INFO]: Registered variant prosperity
+[18:13:20] [Render thread/INFO]: Registered variant rest
+[18:13:20] [Render thread/INFO]: Registered variant skeleton
+[18:13:20] [Render thread/INFO]: Registered variant sky
+[18:13:20] [Render thread/INFO]: Registered variant skyblock
+[18:13:20] [Render thread/INFO]: Registered variant snake
+[18:13:20] [Render thread/INFO]: Registered variant snow_landscape
+[18:13:20] [Render thread/INFO]: Registered variant subaraki
+[18:13:20] [Render thread/INFO]: Registered variant synth_city
+[18:13:20] [Render thread/INFO]: Registered variant tapistry_a
+[18:13:20] [Render thread/INFO]: Registered variant tapistry_b
+[18:13:20] [Render thread/INFO]: Registered variant tapistry_purple
+[18:13:20] [Render thread/INFO]: Registered variant torched
+[18:13:20] [Render thread/INFO]: Registered variant waterfall
+[18:13:20] [Render thread/INFO]: Registered variant whale
+[18:13:20] [Render thread/INFO]: Registered variant wheat_field
+[18:13:20] [Render thread/INFO]: Registered variant wolf_in_wheat
+[18:13:21] [Render thread/WARN]: defineId called for: class org.infernalstudios.infernalexp.entities.ShroomloinEntity from class org.infernalstudios.infernalexp.entities.WarpbeetleEntity
+[18:13:21] [Render thread/INFO]: [DivineRPG] Attached entity attributes
+[18:13:21] [Render thread/WARN]: defineId called for: class net.minecraft.world.entity.animal.SnowGolem from class baguchan.earthmobsmod.entity.MelonGolem
+[18:13:21] [Render thread/INFO]: loaded in block colorizer
+[18:13:21] [Render thread/INFO]: loaded in item colorizer
+[18:13:21] [Render thread/ERROR]: Some mod loaded the Sheets class to early! This causes the banner texture maps to not contain modded patterns. Supplementaries will not attempt to fix...
+[18:13:21] [Render thread/INFO]: Infernal Expansion: Particles Registered!
+[18:13:22] [Render thread/INFO]: Dispatching Module Step SETUP_CLIENT
+[18:13:22] [Render thread/INFO]: Registering model layer quark:crab#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:shiba#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:quark_boat_chest#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:wraith#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:forgotten_hat#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:stoneling#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:toretoise#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:quark_boat#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:foxhound#main
+[18:13:22] [Render thread/INFO]: Registering model layer quark:backpack#main
+[18:13:22] [Render thread/INFO]: [DivineRPG] Registered entity renders
+[18:13:22] [Render thread/INFO]: Dispatching Module Step REGISTER_TOOLTIP_COMPONENT_FACTORIES
+[18:13:22] [Render thread/INFO]: Registering Keybinds
+[18:13:22] [Render thread/INFO]: Dispatching Module Step REGISTER_KEYBINDS
+[18:13:23] [Render thread/INFO]: Mixing client.MixinProfileKeyPairManager from nochatreports.mixins.json into net.minecraft.client.multiplayer.ProfileKeyPairManager
+[18:13:23] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[18:13:23] [Render thread/INFO]: Mixing client.MixinChatListener from nochatreports.mixins.json into net.minecraft.client.multiplayer.chat.ChatListener
+[18:13:23] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Everycomp Generated Pack, Supplementaries Generated Pack, quark-emote-pack
+[18:13:23] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Generated Pack in: 649 ms
+[18:13:25] [Render thread/ERROR]: Failed to read block texture at: (mcwdoors:block/oak_japanese2_door_upper, everycomp:block/mcaw/doors/oak_japanese2_door_upper_m)
+java.io.IOException: java.util.NoSuchElementException: No value present
+	at net.mehvahdjukaar.moonlight.api.resources.textures.SpriteUtils.readImage(SpriteUtils.java:28) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.mehvahdjukaar.moonlight.api.resources.textures.TextureImage.open(TextureImage.java:144) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.mehvahdjukaar.every_compat.api.SimpleEntrySet.generateTextures(SimpleEntrySet.java:313) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.every_compat.api.SimpleModule.lambda$addDynamicClientResources$8(SimpleModule.java:94) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at java.util.LinkedHashMap$LinkedValues.forEach(LinkedHashMap.java:647) ~[?:?]
+	at net.mehvahdjukaar.every_compat.api.SimpleModule.addDynamicClientResources(SimpleModule.java:94) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.every_compat.dynamicpack.ClientDynamicResourcesHandler.lambda$regenerateDynamicAssets$2(ClientDynamicResourcesHandler.java:54) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at java.util.LinkedHashMap$LinkedValues.forEach(LinkedHashMap.java:647) ~[?:?]
+	at net.mehvahdjukaar.every_compat.EveryCompat.forAllModules(EveryCompat.java:49) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.every_compat.dynamicpack.ClientDynamicResourcesHandler.regenerateDynamicAssets(ClientDynamicResourcesHandler.java:52) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.moonlight.api.resources.pack.DynResourceProvider.reloadResources(DynResourceProvider.java:92) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.mehvahdjukaar.moonlight.api.resources.pack.DynResourceProvider.m_5540_(DynResourceProvider.java:58) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10827_(SimpleReloadInstance.java:32) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:44) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:45) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:577) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.1.43.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.mehvahdjukaar.moonlight.api.resources.textures.SpriteUtils.readImage(SpriteUtils.java:25) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	... 32 more
+[18:13:25] [Render thread/ERROR]: Failed to read block texture at: (mcwdoors:block/oak_japanese2_door_lower, everycomp:block/mcaw/doors/oak_japanese2_door_lower_m)
+java.io.IOException: java.util.NoSuchElementException: No value present
+	at net.mehvahdjukaar.moonlight.api.resources.textures.SpriteUtils.readImage(SpriteUtils.java:28) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.mehvahdjukaar.moonlight.api.resources.textures.TextureImage.open(TextureImage.java:144) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.mehvahdjukaar.every_compat.api.SimpleEntrySet.generateTextures(SimpleEntrySet.java:313) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.every_compat.api.SimpleModule.lambda$addDynamicClientResources$8(SimpleModule.java:94) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at java.util.LinkedHashMap$LinkedValues.forEach(LinkedHashMap.java:647) ~[?:?]
+	at net.mehvahdjukaar.every_compat.api.SimpleModule.addDynamicClientResources(SimpleModule.java:94) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.every_compat.dynamicpack.ClientDynamicResourcesHandler.lambda$regenerateDynamicAssets$2(ClientDynamicResourcesHandler.java:54) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at java.util.LinkedHashMap$LinkedValues.forEach(LinkedHashMap.java:647) ~[?:?]
+	at net.mehvahdjukaar.every_compat.EveryCompat.forAllModules(EveryCompat.java:49) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.every_compat.dynamicpack.ClientDynamicResourcesHandler.regenerateDynamicAssets(ClientDynamicResourcesHandler.java:52) ~[everycomp-1.19.2-2.0.7.jar%23225!/:?]
+	at net.mehvahdjukaar.moonlight.api.resources.pack.DynResourceProvider.reloadResources(DynResourceProvider.java:92) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.mehvahdjukaar.moonlight.api.resources.pack.DynResourceProvider.m_5540_(DynResourceProvider.java:58) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10827_(SimpleReloadInstance.java:32) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:44) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:45) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:577) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23359!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.1.43.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.mehvahdjukaar.moonlight.api.resources.textures.SpriteUtils.readImage(SpriteUtils.java:25) ~[moonlight-1.19.2-2.0.37.jar%23277!/:?]
+	... 32 more
+[18:13:26] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Everycomp Generated Pack in: 2125 ms
+[18:13:26] [modloading-worker-0/INFO]: Loading client config for pickupnotifier
+[18:13:26] [Thread-0/INFO]: Reloading client config for pickupnotifier
+[18:13:26] [Render thread/INFO]: Loaded default options for keymappings
+[18:13:26] [modloading-worker-0/INFO]: Loading client config for visualworkbench
+[18:13:26] [modloading-worker-0/INFO]: Loading client config for betteranimationscollection
+[18:13:26] [Worker-Main1/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:13:26] [Worker-Main6/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:13:26] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:13:26] [Worker-Main8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:13:26] [modloading-worker-0/INFO]: Loading client config for easymagic
+[18:13:26] [Thread-0/WARN]: Configuration file C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\endercrop-common.toml is not correct. Correcting
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Redstone Randomizer
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Pistons Move Tile Entities
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Obsidian Plate
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Metal Buttons
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Jukebox Automation
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Iron Rod
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Gravisand
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Feeding Trough
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Ender Watcher
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Dispensers Place Blocks
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Chute
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Chains Connect Blocks
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Wooden Posts
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Vertical Slabs
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Vertical Planks
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Variant Ladders
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Variant Furnaces
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Variant Chests
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Variant Bookshelves
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Thatch
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Sturdy Stone
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Stools
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Soul Sandstone
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Shingles
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Shear Vines
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Rope
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Raw Metal Bricks
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Nether Brick Fence Gate
+[18:13:26] [modloading-worker-0/INFO]: Loading Module More Stone Variants
+[18:13:26] [modloading-worker-0/INFO]: Loading Module More Potted Plants
+[18:13:26] [modloading-worker-0/INFO]: Loading Module More Brick Types
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Midori
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Leaf Carpet
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Japanese Palette
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Industrial Palette
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Hedges
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Grate
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Gold Bars
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Glass Item Frame
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Framed Glass
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Duskbound Blocks
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Compressed Blocks
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Celebratory Lamps
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Quick Armor Swapping
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Item Sharing
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Inventory Sorting
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Hotbar Changer
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Expanded Item Interactions
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Easy Transfering
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Trowel
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Slime In A Bucket
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Seed Pouch
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Pickarang
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Pathfinder Maps
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Parrot Eggs
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Endermosh Music Disc
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Color Runes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Camera
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Bundle Recipe
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Bottled Cloud
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Beacon Redirection
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Ancient Tomes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Ambient Discs
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Abacus
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Villagers Follow Emeralds
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Vexes Die With Their Masters
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Utility Recipes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Snow Golem Player Heads
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Simple Harvest
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Sign Editing
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Shulker Packing
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Replace Scaffolding
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Reacharound Placing
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Poison Potato Usage
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Pig Litters
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Pat The Dogs
+[18:13:26] [modloading-worker-0/INFO]: Loading Module More Note Block Sounds
+[18:13:26] [modloading-worker-0/INFO]: Loading Module More Banner Layers
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Lock Rotation
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Hoe Harvesting
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Grab Chickens
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Glass Shard
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Enhanced Ladders
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Emotes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Dragon Scales
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Double Door Opening
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Compasses Work Everywhere
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Campfires Boost Elytra
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Better Elytra Rocket
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Automatic Recipe Unlock
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Armed Armor Stands
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Skull Pikes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Spiral Spires
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Permafrost
+[18:13:26] [modloading-worker-0/INFO]: Loading Module No More Lava Pockets
+[18:13:26] [modloading-worker-0/INFO]: Loading Module New Stone Types
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Nether Obsidian Spikes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Monster Box
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Glimmering Weald
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Fairy Rings
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Corundum
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Chorus Vegetation
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Blossom Trees
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Big Stone Clusters
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Azalea Wood
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Wraith
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Toretoise
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Stonelings
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Shiba
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Foxhound
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Forgotten
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Crabs
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Wool Shuts Up Minecarts
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Variant Animal Textures
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Uses For Curses
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Usage Ticker
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Soul Candles
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Microcrafting Helper
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Improved Tooltips
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Greener Grass
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Chest Searching
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Back Button Keybind
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Auto Walk Keybind
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Zombie Villagers On Normal
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Spawner Replacer
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Saw
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Overlay Shader
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Narrator Readout
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Game Nerfs
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Enchantments Begone
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Adjustable Chat
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Totem Of Holding
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Tiny Potato
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Pipes
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Matrix Enchanting
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Magnets
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Crate
+[18:13:26] [modloading-worker-0/INFO]: Loading Module Backpack
+[18:13:26] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED
+[18:13:26] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/wednesday.ogg does not exist, cannot add it to event quark:entity.frog.wednesday
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/die.ogg does not exist, cannot add it to event quark:entity.frog.die
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/hurt1.ogg does not exist, cannot add it to event quark:entity.frog.hurt
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/hurt2.ogg does not exist, cannot add it to event quark:entity.frog.hurt
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/hurt3.ogg does not exist, cannot add it to event quark:entity.frog.hurt
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/hurt4.ogg does not exist, cannot add it to event quark:entity.frog.hurt
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/idle1.ogg does not exist, cannot add it to event quark:entity.frog.idle
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/idle2.ogg does not exist, cannot add it to event quark:entity.frog.idle
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/idle3.ogg does not exist, cannot add it to event quark:entity.frog.idle
+[18:13:27] [Worker-Main7/WARN]: File quark:sounds/entity/frog/idle4.ogg does not exist, cannot add it to event quark:entity.frog.idle
+[18:13:27] [Worker-Main7/INFO]: Zooming chunks initiated!
+[18:13:27] [Worker-Main7/INFO]: Better Compatibility Checker setting up
+[18:13:27] [Worker-Main7/INFO]: Messages Registered
+[18:13:27] [Worker-Main7/INFO]: [DivineRPG] Registered triggers
+[18:13:27] [Worker-Main7/INFO]: SereneSeasons detected. Overriding melting behavior.
+[18:13:27] [Worker-Main1/INFO]: Shields up!
+[18:13:27] [Worker-Main1/INFO]: Compatibility version 15
+[18:13:27] [Worker-Main1/INFO]: Loading plugins
+[18:13:27] [Worker-Main1/INFO]: Loaded 0 plugin(s)
+[18:13:27] [Worker-Main1/INFO]: Initializing plugins
+[18:13:27] [Worker-Main1/INFO]: Initialized 0 plugin(s)
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\end-biomes.json5" was read.
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\nether-biomes.json5" was read.
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\surface_rules\end_surface_rules.json5" was read.
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\growing-patterns.json5" was read.
+[18:13:28] [Worker-Main2/INFO]: Create Plus Setup
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\trades.json5" was read.
+[18:13:28] [Worker-Main2/INFO]: Found @Ljourneymap/client/api/ClientPlugin;: frankv.jmi.JMIJourneyMapPlugin
+[18:13:28] [Worker-Main2/INFO]: Found @Ljourneymap/client/api/ClientPlugin;: net.blay09.mods.waystones.compat.JourneyMapAddon
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\settings.json5" was read.
+[18:13:28] [Worker-Main8/INFO]: Common Setup
+[18:13:28] [Worker-Main8/INFO]: farsight_view mod initialized
+[18:13:28] [Worker-Main1/INFO]: "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\biomepedia.json5" was read.
+[18:13:28] [Worker-Main2/INFO]: Overspawning lammergeiers...
+[18:13:28] [Worker-Main8/INFO]: detectedLauncher: CurseClient
+[18:13:28] [Worker-Main1/INFO]: Created compressed zip back up for "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg" in "C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft Origins\config\byg\backups\last_working_configs_backup.zip"
+[18:13:28] [Worker-Main1/INFO]: BYG: Added strippable Blocks...
+[18:13:28] [Worker-Main4/INFO]: Initialized enhancedcelestials network!
+[18:13:28] [Worker-Main2/INFO]: Dispatching Module Step CONFIG_CHANGED
+[18:13:28] [Worker-Main2/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[18:13:28] [Worker-Main2/INFO]: Dispatching Module Step SETUP
+[18:13:29] [Render thread/INFO]: Finished mod setup in: 71 ms
+[18:13:29] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[18:13:29] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:data_handler_type
+[18:13:29] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[18:13:29] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[18:13:29] [Render thread/INFO]: Initializing Packet Registries
+[18:13:29] [Render thread/INFO]: Initializing BYG network...
+[18:13:29] [Render thread/INFO]: Initialized BYG network!
+[18:13:29] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[18:13:29] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[18:13:29] [Render thread/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[18:13:29] [Render thread/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[18:13:29] [Render thread/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[18:13:29] [Render thread/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[18:13:29] [Worker-Main4/INFO]: [DivineRPG] Attached model properties
+[18:13:29] [Worker-Main4/INFO]: [DivineRPG] Registered screens
+[18:13:30] [Worker-Main6/INFO]: BYG: "Client Setup" Event Complete!
+[18:13:30] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[18:13:30] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[18:13:30] [Worker-Main2/INFO]: [KONKRETE] Client-side libs ready to use!
+[18:13:30] [Placebo Patreon Trail Loader/INFO]: Loaded 23 patreon trails.
+[18:13:30] [Placebo Patreon Wing Loader/INFO]: Loaded 18 patreon wings.
+[18:13:30] [Worker-Main4/INFO]: Waystones integration loaded.
+[18:13:30] [Worker-Main2/INFO]: Create Plus Client Setup
+[18:13:30] [Worker-Main2/INFO]: Rendering squirrel physics...
+[18:13:30] [Worker-Main7/INFO]: customWindowTitle: WulfCraft Origins - Minecraft* 1.19.2
+[18:13:30] [Worker-Main7/WARN]: enableCustomIcon is true but icon.ico/icns/png is missing or invalid.
+[18:13:30] [Worker-Main1/INFO]: Loaded 1950 emojis
+[18:13:30] [Worker-Main1/INFO]: Dispatching Module Step SETUP_CLIENT
+[18:13:31] [Render thread/INFO]: Journeymap Initializing
+[18:13:31] [Render thread/INFO]: JourneyMap log initialized.
+[18:13:31] [Render thread/INFO]: initialize ENTER
+[18:13:31] [Render thread/INFO]: [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[18:13:31] [Render thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[18:13:31] [Render thread/INFO]: Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[18:13:31] [Render thread/INFO]: Initialized frankv.jmi.JMIJourneyMapPlugin
+[18:13:31] [Render thread/INFO]: Initialized IClientPlugin: frankv.jmi.JMIJourneyMapPlugin
+[18:13:31] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:13:31] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:13:31] [Render thread/INFO]: initialize EXIT, elapsed count 1 avg 301.24ms
+[18:14:07] [Worker-Main3/INFO]: Dispatching Module Step REIGSTER_ADDITIONAL_MODELS
+[18:15:13] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Worker-Main3/INFO]: Dispatching Module Step TEXTURE_STITCH
+[18:15:16] [Render thread/INFO]: Painting transparency set to: true
+[18:15:16] [Render thread/INFO]: Item Frame transparency set to: true
+[18:15:16] [Render thread/INFO]: Beacon Beam transparency set to: false
+[18:15:16] [Render thread/INFO]: Loaded all shader sources.
+[18:15:16] [Render thread/INFO]: Loaded 9 journal_lang
+[18:15:16] [Worker-Main8/INFO]: Loaded values for 20 compatible attributes.
+[18:15:16] [Worker-Main8/INFO]: Loaded 20 values from config.
+[18:15:16] [Worker-Main5/INFO]: Dispatching Module Step LOAD_COMPLETE
+[18:15:16] [Worker-Main3/INFO]: Successfully loaded config file. 0 overrides loaded.
+[18:15:16] [Worker-Main8/INFO]: Saving config file. 20 entries.
+[18:15:16] [Worker-Main8/INFO]: Applying changes for 20 attributes.
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at snownee.snow.compat.jade.JadeCompat
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[18:15:16] [Worker-Main4/ERROR]: Error loading plugin at twilightforest.compat.jade.JadeCompat
+java.lang.IllegalArgumentException: Duplicate config key: {} [twilightforest:quest_ram_wool]
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:220) ~[guava-31.0.1-jre.jar%23115!/:?]
+	at snownee.jade.impl.config.PluginConfig.addConfig(PluginConfig.java:50) ~[Jade-1.19.1-forge-8.3.0.jar%23256!/:8.3.0]
+	at snownee.jade.impl.WailaClientRegistration.addConfig(WailaClientRegistration.java:161) ~[Jade-1.19.1-forge-8.3.0.jar%23256!/:8.3.0]
+	at twilightforest.compat.jade.JadeCompat.registerClient(JadeCompat.java:14) ~[twilightforest-1.19-4.2.1421-universal.jar%23343!/:4.2.1421]
+	at snownee.jade.Jade.loadComplete(Jade.java:128) ~[Jade-1.19.1-forge-8.3.0.jar%23256!/:8.3.0]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107) ~[javafmllanguage-1.19.2-43.1.43.jar%23361!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:122) ~[fmlcore-1.19.2-43.1.43.jar%23360!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at com.blakebr0.mysticalagriculture.compat.JadeCompat
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at snownee.jade.addon.forge.ForgePlugin
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[18:15:16] [Worker-Main4/INFO]: Start loading plugin at reliquary.compat.jade.JadeCompat
+[18:15:16] [Render thread/INFO]: BYG: Compostible Blocks Added!
+[18:15:16] [Render thread/INFO]: BYG: Added tillables!
+[18:15:16] [Render thread/INFO]: BYG: Added Flammables!
+[18:15:16] [Render thread/INFO]: BYG: "Load Complete" Event Complete!
+[18:15:16] [Render thread/INFO]: Loaded default options for keymappings
+[18:15:17] [Render thread/INFO]: Journeymap PostInit
+[18:15:17] [Render thread/ERROR]: Couldn't locate icons for flat: C:\Users\zawul\Documents\curseforge\minecraft\Instances\WulfCraft%20Origins\mods\journeymap-1.19.1-5.9.0beta2-forge.jar\assets\journeymap\theme\flat
+[18:15:17] [Render thread/INFO]: Preloaded theme textures: 0
+[18:15:17] [Render thread/INFO]: postInitialize EXIT, elapsed count 1 avg 33.59ms
+[18:15:17] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.forge.ForgeConfigProvider
+[18:15:17] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.simple.SimpleConfigProvider
+[18:15:17] [Render thread/INFO]: Successfully loaded config provider: com.anthonyhilyard.iceberg.compat.configured.IcebergConfigProvider
+[18:15:17] [Render thread/INFO]: Creating config GUI factories...
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betterdungeons. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod alexsmobs. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod forgeendertech. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod morebuckets. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod guardvillagers. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod savage_and_ravage. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod pickupnotifier. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod dynview. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod jeresources. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod shetiphiancore. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod emojiful. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod structure_gel. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod advancementplaques. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod repurposed_structures. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod morevillagers. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod bcc. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod ironfurnaces. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod dungeons_plus. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod curios. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod pmmo. Found 7 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod cfm. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod scalinghealth. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod fastleafdecay. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod bettermineshafts. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod divinerpg. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod clienttweaks. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betteranimationscollection. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod bagofyurting. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod jei. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod visualworkbench. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod graveyard. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod goblintraders. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod naturescompass. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod sereneseasons. Found 3 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod farmingforblockheads. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod forge. Found 3 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod logprot. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod adlods. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod ding. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod paintings. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod flywheel. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod gravestone. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod croptopia. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod earthmobsmod. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod appleskin. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod damagetilt. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod aquaculture. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod extremesoundmuffler. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod xpbook. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod defaultoptions. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod blue_skies. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betterwitchhuts. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betteroceanmonuments. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod sophisticatedcore. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod insanelib. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod villagernames. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod cookingforblockheads. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod citadel. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod zombieawareness. Found 5 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod endercrop. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod sophisticatedbackpacks. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod buildinggadgets. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod progressivebosses. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod jeed. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod twilightforest. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod farmersdelight. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod itshallnottick. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod endertanks. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod crashutilities. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod endrem. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod patchouli. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod collective. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod oreexcavation. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod elevatorid. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betterstrongholds. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod buildersaddition. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod aiimprovements. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod gamemenumodoption. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betteradvancements. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod inventorysorter. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod cucumber. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod jmi. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod easymagic. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod platforms. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod justmobheads. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod waystones. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod journeymap. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod artifacts. Found 3 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod configured. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod decorative_blocks. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betteranimalsplus. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod more_babies. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod everycomp. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod betterdeserttemples. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod farsight_view. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod toastcontrol. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod blueprint. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod scuba_gear. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod chococraft. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod mysticalagriculture. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod craftingtweaks. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod zillagersweararmor. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod itlt. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod justplayerheads. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod reliquary. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod abnormals_delight. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod toughasnails. Found 4 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod hunterillager. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod creeperoverhaul. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod solcarrot. Found 2 config(s)
+[18:15:17] [Render thread/INFO]: Registering config factory for mod moredragoneggs. Found 1 config(s)
+[18:15:17] [Render thread/INFO]: Serene Seasons detected. Enabling season modifier.
+[18:15:17] [Render thread/INFO]: Registered region quark:biome_provider to index 5 for type OVERWORLD
+[18:15:37] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:15:37] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.skeletal_piglin.ambient
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.skeletal_piglin.hurt
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.skeletal_piglin.death
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.dwarf.ambient
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.dwarf.hurt
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.dwarf.death
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.glaw.ambient
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.glaw.hurt
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.glaw.death
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.smolt.ambient
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.smolt.hurt
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.smolt.death
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.pyrno.ambient
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.pyrno.hurt
+[18:15:37] [Render thread/WARN]: Missing sound for event: infernalexp:entity.pyrno.death
+[18:15:37] [Render thread/WARN]: Missing sound for event: supplementaries:item.wrench.hit
+[18:15:37] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ROG PG27V (NVIDIA High Definition Audio)
+[18:15:37] [Render thread/INFO]: Sound engine started
+[18:15:37] [Render thread/INFO]: Endimation Loader has loaded 1 endimations
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:15:38] [Render thread/WARN]: Model "cyclic:honey_bucket#inventory" is using the deprecated loader "forge:bucket" instead of "forge:fluid_container". This loader will be removed in 1.20.
+[18:15:44] [Render thread/WARN]: Model "cyclic:slime_bucket#inventory" is using the deprecated loader "forge:bucket" instead of "forge:fluid_container". This loader will be removed in 1.20.
+[18:15:51] [Render thread/WARN]: Model "cyclic:xpjuice_bucket#inventory" is using the deprecated loader "forge:bucket" instead of "forge:fluid_container". This loader will be removed in 1.20.
+[18:15:56] [Render thread/WARN]: Model "cyclic:biomass_bucket#inventory" is using the deprecated loader "forge:bucket" instead of "forge:fluid_container". This loader will be removed in 1.20.
+[18:15:59] [Render thread/WARN]: Model "cyclic:magma_bucket#inventory" is using the deprecated loader "forge:bucket" instead of "forge:fluid_container". This loader will be removed in 1.20.
+[18:16:07] [Render thread/WARN]: Model "cyclic:wax_bucket#inventory" is using the deprecated loader "forge:bucket" instead of "forge:fluid_container". This loader will be removed in 1.20.
+[18:16:08] [Render thread/INFO]: Model replacement took 15 ms
+[18:16:08] [Render thread/INFO]: Dispatching Module Step MODEL_BAKE
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to minecraft:creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to graveyard:reaper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to graveyard:ghoul, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to graveyard:nightmare, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to graveyard:revenant, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to graveyard:wraith, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:snail, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:bear, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:butterfly, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:firefly, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:snake, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:coral_snake, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:rattlesnake, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:deer, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:bluejay, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:canary, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:cardinal, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:robin, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:caterpillar, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:rhino, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:lion, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:elephant, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:giraffe, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:hippo, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:vulture, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to naturalist:boar, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to twilightforest:plateau_boss, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to twilightforest:roving_cube, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:little_grebe, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:lizard, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:lilytad, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:sporeling, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:minipad, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:end_whale, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:cactem, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:yeti, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to cnb:cindershell, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:jungle_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:bamboo_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:desert_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:badlands_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:hills_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:savannah_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:mushroom_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:swamp_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:dripstone_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:cave_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:dark_oak_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:spruce_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:beach_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/WARN]: Could not apply rainbow color layer to creeperoverhaul:snowy_creeper, has custom renderer that is not LivingEntityRenderer.
+[18:16:11] [Render thread/INFO]: Dispatching Module Step MODEL_LAYERS
+[18:16:11] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[18:16:12] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:16:12] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:16:12] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:16:12] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[18:16:12] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 0 jsons
+[18:16:12] [Render thread/INFO]: Not reloading resource pack-based books as client world is missing
+[18:16:12] [Render thread/INFO]: Blueprint Splash Manager has loaded 0 splashes
+[18:16:12] [Render thread/INFO]: Loaded AmbientEngine 'basic' v2.1.2. 11 dimension(s), 8 features, 9 groups, 31 regions, 57 sounds, 3 solids and 2 biome types
+[18:16:12] [Render thread/INFO]: Dispatching Module Step FIRST_CLIENT_TICK
+[18:16:14] [Render thread/INFO]: [FANCYMENU] Updating animation sizes..
+[18:16:14] [Render thread/INFO]: Mixing client.MixinConnectScreen from nochatreports.mixins.json into net.minecraft.client.gui.screens.ConnectScreen
+[18:16:57] [Render thread/INFO]: Stopping!

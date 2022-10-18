@@ -1,0 +1,10 @@
+[18:12:43.982][INFO]: Successfully injected RecipeFS file system
+[18:12:44.165][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:12:44.175][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:12:46.893][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:12:46.897][INFO]: - 'crafttweaker' at version '10.0.12'
+[18:12:46.897][INFO]: - 'mysticalagriculture' at version '6.0.3'
+[18:13:27.758][INFO]: Started loading scripts for loader 'initialize'
+[18:13:28.918][INFO]: Compiling and executing scripts
+[18:13:29.164][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:13:29.369][INFO]: Execution for loader 'initialize' completed successfully
