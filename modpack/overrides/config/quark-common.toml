@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#Disable this to turn off the quark system that makes features turn off when specified mods with the same content are loaded
@@ -1320,7 +1320,7 @@
 		"Enable Shiny Rabbit" = true
 		"Enable Shiny Llama" = true
 		"Enable Shiny Dolphin" = true
-		"Enable L G B T Bees" = true
+		"Enable L G B T Bees" = false
 		"Every Bee Is L G B T" = false
 		#The chance for an animal to have a special "Shiny" skin, like a shiny pokemon. This is 1 in X. Set to 0 to disable.
 		"Shiny Animal Chance" = 2048
