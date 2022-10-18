@@ -262,14 +262,6 @@
       }
     },
     {
-      "projectID": 240633,
-      "fileID": 3963662,
-      "required": true,
-      "__meta": {
-        "name": "Inventory Sorter"
-      }
-    },
-    {
       "projectID": 241160,
       "fileID": 3832619,
       "required": true,
