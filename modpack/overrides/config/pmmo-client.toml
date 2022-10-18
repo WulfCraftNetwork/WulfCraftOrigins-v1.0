@@ -15,13 +15,13 @@
 		#how far up from the bottm left corner the vein guage should be
 		"Vein Gauge Yoffset" = 15
 		#Should the vein charge data be displayed
-		"Display Veing Gauge" = true
+		"Display Veing Gauge" = false
 		#how far offset from center the gain list should be
 		"Gain List Xoffset" = 0
 		#how far down from the top left corner the gain list should be
 		"Gain List Yoffset" = 0
 		#Should the Gain list be displayed
-		"Display Gain List" = true
+		"Display Gain List" = false
 		#what color should the background be for the section header lines in the glossary
 		"Section Header Color" = 352630048
 		#What color should the background be for the salvage item lines in the glossary
