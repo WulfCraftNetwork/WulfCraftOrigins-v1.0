@@ -123,5 +123,5 @@
 	[Client.Vein_Miner]
 		#The max blocks a vein activation should consume regardless of charge
 		#Range: > 0
-		Vein_Limit = 64
+		Vein_Limit = 16
 
