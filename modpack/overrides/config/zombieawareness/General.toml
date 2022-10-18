@@ -3,12 +3,12 @@
 [general]
 	#Max awareness range for zombies
 	#Range: > -2147483648
-	maxPFRangeSense = 64
+	maxPFRangeSense = 100
 	#Prevent non zombies from being attracted to light
 	awareness_Light_OnlyZombies = true
 	#Custom targetting sight range on top of vanilla sight based targetting
 	#Range: > -2147483648
-	sightRange = 16
+	sightRange = 30
 	#Always target closest player [performance sensitive]
 	omniscient = false
 	#skips line of sight check on targetting [performance sensitive]
