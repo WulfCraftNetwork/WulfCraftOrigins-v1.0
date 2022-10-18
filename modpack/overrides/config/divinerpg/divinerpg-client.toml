@@ -1,7 +1,7 @@
 
 ["Client configs for DivineRPG"]
 	#Show welcome message
-	welcomeMessage = true
+	welcomeMessage = false
 	#Hide Arcana bar unless depleted
 	hideArcanaBar = true
 	#arcana x
