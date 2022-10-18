@@ -4,7 +4,7 @@
 	draw_sprites = true
 	#Color of the entry name text.
 	#Allowed Values: BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-	default_color = "WHITE"
+	default_color = "GOLD"
 	#Ignore rarity of items and always use color specified in "Text Color" instead.
 	ignore_rarity = false
 	#Screen corner for entry list to be drawn in.
