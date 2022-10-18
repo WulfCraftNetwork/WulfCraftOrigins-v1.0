@@ -21,7 +21,7 @@
 	maximum_height = 0.5
 	#Scale of entries. A lower scale will make room for more rows to show. Works together with "GUI Scale" option in "Video Settings".
 	#Range: 1 ~ 24
-	custom_scale = 4
+	custom_scale = 6
 
 [general]
 	#Show the value of experience points collected instead of the amount of individual orbs.
@@ -45,7 +45,7 @@
 	combine_entries = true
 	#Amount of ticks each entry will be shown for. Set to 0 to only remove entries when space for new ones is needed.
 	#Range: > 0
-	display_time = 80
+	display_time = 100
 	#Make outdated entries slowly move out of the screen instead of disappearing in place.
 	move_out_of_screen = true
 	#Amount of ticks it takes for an entry to move out of the screen. Value cannot be larger than "Display Time".
