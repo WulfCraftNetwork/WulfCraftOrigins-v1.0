@@ -1547,17 +1547,6 @@
       }
     },
     {
-      "projectID": 499826,
-      "fileID": 4029209,
-      "required": true,
-      "__meta": {
-        "name": "Advancement Plaques",
-        "dependencies": [
-          520110
-        ]
-      }
-    },
-    {
       "projectID": 499980,
       "fileID": 4029402,
       "required": true,
