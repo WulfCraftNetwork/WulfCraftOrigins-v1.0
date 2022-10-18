@@ -19,7 +19,7 @@
 		#how far offset from center the gain list should be
 		"Gain List Xoffset" = 0
 		#how far down from the top left corner the gain list should be
-		"Gain List Yoffset" = 0
+		"Gain List Yoffset" = 1
 		#Should the Gain list be displayed
 		"Display Gain List" = false
 		#what color should the background be for the section header lines in the glossary
