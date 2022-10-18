@@ -12,3 +12,7 @@ Git Command Tutorial
 
 #Updating Repo to current status
 1. git pull origin main
+
+
+#pax
+https://github.com/froehlichA/pax/wiki/Getting-started#how-to-go-from-here
