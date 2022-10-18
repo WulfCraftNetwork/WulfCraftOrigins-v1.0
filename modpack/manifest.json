@@ -92,7 +92,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3964325,
+      "fileID": 4033122,
       "required": true,
       "__meta": {
         "name": "Bookshelf"
@@ -108,7 +108,7 @@
     },
     {
       "projectID": 230137,
-      "fileID": 3943010,
+      "fileID": 4023959,
       "required": true,
       "__meta": {
         "name": "Additional Banners",
@@ -263,7 +263,7 @@
     },
     {
       "projectID": 240633,
-      "fileID": 3962743,
+      "fileID": 3963662,
       "required": true,
       "__meta": {
         "name": "Inventory Sorter"
@@ -290,7 +290,7 @@
     },
     {
       "projectID": 242195,
-      "fileID": 3943030,
+      "fileID": 4016322,
       "required": true,
       "__meta": {
         "name": "Dark Utilities",
@@ -445,7 +445,7 @@
     },
     {
       "projectID": 250419,
-      "fileID": 3955030,
+      "fileID": 4031926,
       "required": true,
       "__meta": {
         "name": "Enchantment Descriptions",
@@ -605,7 +605,7 @@
     },
     {
       "projectID": 280510,
-      "fileID": 3943012,
+      "fileID": 3963622,
       "required": true,
       "__meta": {
         "name": "AttributeFix"
@@ -621,7 +621,7 @@
     },
     {
       "projectID": 284324,
-      "fileID": 3963433,
+      "fileID": 4030006,
       "required": true,
       "__meta": {
         "name": "Emojiful"
@@ -629,7 +629,7 @@
     },
     {
       "projectID": 285684,
-      "fileID": 3943024,
+      "fileID": 4013500,
       "required": true,
       "__meta": {
         "name": "Coloured Tooltips"
@@ -750,7 +750,7 @@
     },
     {
       "projectID": 306549,
-      "fileID": 3976082,
+      "fileID": 4031071,
       "required": true,
       "__meta": {
         "name": "Tips",
@@ -1027,7 +1027,7 @@
     },
     {
       "projectID": 363363,
-      "fileID": 3913323,
+      "fileID": 4033058,
       "required": true,
       "__meta": {
         "name": "Extreme sound muffler (Forge)"
@@ -1206,7 +1206,7 @@
     },
     {
       "projectID": 393149,
-      "fileID": 3943077,
+      "fileID": 3963629,
       "required": true,
       "__meta": {
         "name": "Runelic",
@@ -1708,7 +1708,7 @@
     },
     {
       "projectID": 531188,
-      "fileID": 3960319,
+      "fileID": 4025847,
       "required": true,
       "__meta": {
         "name": "The Graveyard (FORGE)",
