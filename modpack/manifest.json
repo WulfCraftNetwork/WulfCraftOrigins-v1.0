@@ -456,14 +456,6 @@
       }
     },
     {
-      "projectID": 250898,
-      "fileID": 3983796,
-      "required": true,
-      "__meta": {
-        "name": "Ore Excavation"
-      }
-    },
-    {
       "projectID": 251407,
       "fileID": 3901914,
       "required": true,
