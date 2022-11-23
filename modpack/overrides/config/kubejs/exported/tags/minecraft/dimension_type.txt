@@ -1,0 +1,7 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 18, 2022, 5:42:06 PM
+
+#terrablender:nether_regions
+- minecraft:the_nether (from TerraBlender-forge-1.19.2-2.0.1.128.jar)
+
+#terrablender:overworld_regions
+- minecraft:overworld (from TerraBlender-forge-1.19.2-2.0.1.128.jar)
