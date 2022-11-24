@@ -1,0 +1,51 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 18, 2022, 5:42:06 PM
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#earthmobsmod:mud
+- earthmobsmod:mud (from EarthMobs-1.19.2-3.2.1.jar)
+- earthmobsmod:mud_flow (from EarthMobs-1.19.2-3.2.1.jar)
+
+#forge:experience
+- sophisticatedcore:xp_still (from sophisticatedcore-1.19.2-0.5.13.134.jar)
+- cyclic:xpjuice (from Cyclic-1.19.2-1.7.11.jar)
+- reliquary:xp_juice_still (from reliquary-1.19.2-2.0.20.1166.jar)
+
+#forge:wax
+- cyclic:wax? (from Cyclic-1.19.2-1.7.11.jar)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- cyclic:biomass (from Cyclic-1.19.2-1.7.11.jar)
+- cyclic:biomass_flowing (from Cyclic-1.19.2-1.7.11.jar)
+- cyclic:honey (from Cyclic-1.19.2-1.7.11.jar)
+- cyclic:honey_flowing (from Cyclic-1.19.2-1.7.11.jar)
+- cyclic:xpjuice (from Cyclic-1.19.2-1.7.11.jar)
+- cyclic:xpjuice_flowing (from Cyclic-1.19.2-1.7.11.jar)
+
+#forge:slime
+- cyclic:slime (from Cyclic-1.19.2-1.7.11.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.1.43-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.1.43-universal.jar)
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+- decorative_blocks:flowing_thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+
+#forge:honey
+- inspirations:honey? (from Cyclic-1.19.2-1.7.11.jar)
+- cyclic:honey (from Cyclic-1.19.2-1.7.11.jar)
+
+#forge:biomass
+- cyclic:biomass (from Cyclic-1.19.2-1.7.11.jar)
+
+#forge:magma
+- cyclic:magma (from Cyclic-1.19.2-1.7.11.jar)
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava (from twilightforest-1.19-4.2.1421-universal.jar)

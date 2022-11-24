@@ -1,0 +1,222 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 18, 2022, 5:42:07 PM
+
+#twilightforest:pattern_item/naga
+- twilightforest:naga (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#additionalbanners:pattern_item/mushroom
+- additionalbanners:mushroom (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/clubs
+- additionalbanners:clubs (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#alexsmobs:pattern_for_australia_1
+- alexsmobs:australia_1 (from alexsmobs-1.20.2.jar)
+
+#minecraft:pattern_item/creeper
+- minecraft:creeper (from Default)
+
+#alexsmobs:pattern_for_australia_0
+- alexsmobs:australia_0 (from alexsmobs-1.20.2.jar)
+
+#additionalbanners:pattern_item/grass
+- additionalbanners:grass (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/spider
+- additionalbanners:spider (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/moon
+- additionalbanners:moon (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/diamond
+- additionalbanners:diamond (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/spades
+- additionalbanners:spades (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#twilightforest:pattern_item/hydra
+- twilightforest:hydra (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#additionalbanners:pattern_item/heart
+- additionalbanners:heart (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#twilightforest:pattern_item/ur_ghast
+- twilightforest:ur_ghast (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#twilightforest:pattern_item/quest_ram
+- twilightforest:quest_ram (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#minecraft:pattern_item/piglin
+- minecraft:piglin (from Default)
+
+#twilightforest:pattern_item/alpha_yeti
+- twilightforest:alpha_yeti (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#alexsmobs:pattern_for_brazil
+- alexsmobs:brazil (from alexsmobs-1.20.2.jar)
+
+#twilightforest:pattern_item/snow_queen
+- twilightforest:snow_queen (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#minecraft:pattern_item/globe
+- minecraft:globe (from Default)
+
+#additionalbanners:pattern_item/dragon
+- additionalbanners:dragon (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#minecraft:pattern_item/mojang
+- minecraft:mojang (from Default)
+
+#additionalbanners:pattern_item/trident
+- additionalbanners:trident (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#minecraft:no_item_required
+- minecraft:square_bottom_left (from Default)
+- minecraft:square_bottom_right (from Default)
+- minecraft:square_top_left (from Default)
+- minecraft:square_top_right (from Default)
+- minecraft:stripe_bottom (from Default)
+- minecraft:stripe_top (from Default)
+- minecraft:stripe_left (from Default)
+- minecraft:stripe_right (from Default)
+- minecraft:stripe_center (from Default)
+- minecraft:stripe_middle (from Default)
+- minecraft:stripe_downright (from Default)
+- minecraft:stripe_downleft (from Default)
+- minecraft:small_stripes (from Default)
+- minecraft:cross (from Default)
+- minecraft:straight_cross (from Default)
+- minecraft:triangle_bottom (from Default)
+- minecraft:triangle_top (from Default)
+- minecraft:triangles_bottom (from Default)
+- minecraft:triangles_top (from Default)
+- minecraft:diagonal_left (from Default)
+- minecraft:diagonal_up_right (from Default)
+- minecraft:diagonal_up_left (from Default)
+- minecraft:diagonal_right (from Default)
+- minecraft:circle (from Default)
+- minecraft:rhombus (from Default)
+- minecraft:half_vertical (from Default)
+- minecraft:half_horizontal (from Default)
+- minecraft:half_vertical_right (from Default)
+- minecraft:half_horizontal_bottom (from Default)
+- minecraft:border (from Default)
+- minecraft:curly_border (from Default)
+- minecraft:gradient (from Default)
+- minecraft:gradient_up (from Default)
+- minecraft:bricks (from Default)
+
+#runelic:pattern_item/runelic
+- runelic:runelic_a (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_b (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_c (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_d (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_e (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_f (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_g (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_h (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_i (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_j (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_k (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_l (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_m (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_n (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_o (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_p (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_q (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_r (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_s (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_t (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_u (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_v (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_w (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_x (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_y (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_z (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_0 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_1 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_2 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_3 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_4 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_5 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_6 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_7 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_8 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_9 (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_slash (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_period (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_dash (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_comma (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_plus (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_asterisk (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_right_bracket (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_left_bracket (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_apostrophe (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_and (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_percent (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_dollar (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_hashtag (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_quote (from Runelic-Forge-1.19.2-14.1.3.jar)
+- runelic:runelic_exclamation (from Runelic-Forge-1.19.2-14.1.3.jar)
+
+#additionalbanners:pattern_item/snowflake
+- additionalbanners:snowflake (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/phantom
+- additionalbanners:phantom (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/hex
+- additionalbanners:hex (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/pumpkin
+- additionalbanners:pumpkin (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/anchor
+- additionalbanners:anchor (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#alexsmobs:pattern_for_bear
+- alexsmobs:bear (from alexsmobs-1.20.2.jar)
+
+#additionalbanners:pattern_item/sword
+- additionalbanners:sword (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#twilightforest:pattern_item/knight_phantom
+- twilightforest:knight_phantom (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#minecraft:pattern_item/skull
+- minecraft:skull (from Default)
+
+#twilightforest:pattern_item/lich
+- twilightforest:lich (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#additionalbanners:pattern_item/squares
+- additionalbanners:squares (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/kelp
+- additionalbanners:kelp (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/squid
+- additionalbanners:squid (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#minecraft:pattern_item/flower
+- minecraft:flower (from Default)
+
+#twilightforest:pattern_item/minoshroom
+- twilightforest:minoshroom (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#additionalbanners:pattern_item/waterfall
+- additionalbanners:waterfall (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/cobweb
+- additionalbanners:cobweb (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/shield
+- additionalbanners:shield (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#alexsmobs:pattern_for_new_mexico
+- alexsmobs:new_mexico (from alexsmobs-1.20.2.jar)
+
+#additionalbanners:pattern_item/frame
+- additionalbanners:frame (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)
+
+#additionalbanners:pattern_item/balance
+- additionalbanners:balance (from AdditionalBanners-Forge-1.19.2-10.1.5.jar)

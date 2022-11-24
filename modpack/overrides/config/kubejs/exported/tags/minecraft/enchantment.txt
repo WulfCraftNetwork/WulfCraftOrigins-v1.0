@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 18, 2022, 5:42:06 PM
+
+#twilightforest:phantom_armor_banned_enchants
+- minecraft:vanishing_curse (from twilightforest-1.19-4.2.1421-universal.jar)
+- minecraft:binding_curse (from twilightforest-1.19-4.2.1421-universal.jar)
+
+#dungeons_plus:warped_axe_applicable
+- soulfired:soul_fire_aspect? (from dungeons_plus-1.19.2-1.2.2.jar)
