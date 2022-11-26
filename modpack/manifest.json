@@ -1585,6 +1585,17 @@
       }
     },
     {
+      "projectID": 504908,
+      "fileID": 4034656,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Titles (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
       "projectID": 510089,
       "fileID": 4031672,
       "required": true,

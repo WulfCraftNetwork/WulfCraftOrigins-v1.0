@@ -582,6 +582,9 @@ https://www.curseforge.com/minecraft/mc-mods/towns-and-towers
 **Transparent**
 https://www.curseforge.com/minecraft/mc-mods/transparent
 
+**Traveler's Titles**
+https://www.curseforge.com/minecraft/mc-mods/travelers-titles
+
 **Villager Names**
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
