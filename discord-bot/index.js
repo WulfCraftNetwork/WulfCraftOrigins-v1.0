@@ -1,6 +1,8 @@
 const Discord = require("discord.js")
 require("dotenv").config()
 
+// const generateImage = require("./generateImage")
+
 const client = new Discord.Client({
     intents: [
         "GUILDS",
@@ -9,21 +11,21 @@ const client = new Discord.Client({
     ]
 })
 
-client.on("ready", () => {
-    console.log(`Logged in as ${client.user.tag}`)
-})
+let bot = {
+    client, 
+    prefix: "!",
+    owners: ["97373703645458432"]
+}
 
-client.on("messageCreate", (message) => {
-    if (message.content == "hi"){
-        message.reply("Hello!")
-    }
-})
+client.commands = new Discord.Collection()
+client.events = new Discord.Collection()
 
-// #newcomers channel
-const welcomeChannelId = "1044770353022500956"
+client.loadEvents = (bot, reload) => require("./handlers/events")(bot, reload)
+client.loadCommands = (bot, reload) => require("./handlers/commands")(bot, reload)
 
-client.on("guildMemberAdd", (member) => {
-    member.guild.channels.cache.get(welcomeChannelId).send(`<@${member.id}> Welcome to the official Discord of WulfCraft Origins!`)
-})
+client.loadEvents(bot, false)
+client.loadCommands(bot, false)
+
+module.exports = bot
 
 client.login(process.env.TOKEN)
