@@ -14,7 +14,7 @@ All specs above are assuming the instances run at 100% monthly utilization with 
 
 When the server is no longer in use or does not detect an active player, it will wait 30 minutes before shutting down and creating a backup. This process will then repeat the query/ping CloudWatch process.
 
-## *More on this later...*
+*More on this later...*
 
 ## **Mods** 
 <details>
