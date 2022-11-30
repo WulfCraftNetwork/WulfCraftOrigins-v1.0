@@ -1,6 +1,7 @@
 const Discord = require("discord.js")
 require("dotenv").config()
 
+
 // const generateImage = require("./generateImage")
 
 const client = new Discord.Client({
@@ -8,7 +9,8 @@ const client = new Discord.Client({
         "GUILDS",
         "GUILD_MESSAGES",
         "GUILD_MEMBERS"
-    ]
+    ],
+    
 })
 
 let bot = {
