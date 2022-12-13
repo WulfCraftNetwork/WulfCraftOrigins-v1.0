@@ -462,6 +462,9 @@ https://www.curseforge.com/minecraft/mc-mods/pig-pen-cipher
 ### **Placebo**
 https://www.curseforge.com/minecraft/mc-mods/placebo
 
+### **Plasmo Voice**
+https://www.curseforge.com/minecraft/mc-mods/plasmo-voice
+
 ### **Platforms**
 https://www.curseforge.com/minecraft/mc-mods/platforms
 
@@ -527,9 +530,6 @@ https://www.curseforge.com/minecraft/mc-mods/silent-lib
 
 ### **Simple Discord Rich Presence**
 https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence
-
-### **Simple Voice Chat**
-https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 
 ### **Smooth Boot**
 https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded
