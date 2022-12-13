@@ -1469,6 +1469,14 @@
       }
     },
     {
+      "projectID": 467028,
+      "fileID": 4152807,
+      "required": true,
+      "__meta": {
+        "name": "Plasmo Voice"
+      }
+    },
+    {
       "projectID": 474817,
       "fileID": 4022979,
       "required": true,
