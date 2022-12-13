@@ -1,0 +1,34 @@
+{
+  "name": "discord-bot-2",
+  "version": "0.1.0",
+  "bin": {
+    "discord-bot-2": "bin/discord-bot-2.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "jest",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@types/babel__traverse": "7.18.2",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^18.11.10",
+    "@types/prettier": "2.6.0",
+    "aws-cdk": "2.53.0",
+    "esbuild": "^0.15.16",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "ts-node": "^10.9.1",
+    "typescript": "~3.9.7"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.181.1",
+    "@aws-cdk/aws-lambda": "^1.181.1",
+    "@aws-cdk/aws-lambda-nodejs": "^1.181.1",
+    "aws-cdk-lib": "2.53.0",
+    "constructs": "^10.0.0",
+    "discord.js": "^14.7.1",
+    "source-map-support": "^0.5.21"
+  }
+}
