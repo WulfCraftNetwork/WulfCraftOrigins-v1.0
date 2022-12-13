@@ -1310,14 +1310,6 @@
       }
     },
     {
-      "projectID": 416089,
-      "fileID": 4011776,
-      "required": true,
-      "__meta": {
-        "name": "Simple Voice Chat"
-      }
-    },
-    {
       "projectID": 416294,
       "fileID": 4023100,
       "required": true,
