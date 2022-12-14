@@ -390,17 +390,6 @@
       }
     },
     {
-      "projectID": 247560,
-      "fileID": 4027228,
-      "required": true,
-      "__meta": {
-        "name": "Oh The Biomes You'll Go",
-        "dependencies": [
-          563928
-        ]
-      }
-    },
-    {
       "projectID": 248027,
       "fileID": 3943340,
       "required": true,
@@ -1734,14 +1723,6 @@
         "dependencies": [
           410295
         ]
-      }
-    },
-    {
-      "projectID": 563928,
-      "fileID": 4095397,
-      "required": true,
-      "__meta": {
-        "name": "TerraBlender (Forge)"
       }
     },
     {
