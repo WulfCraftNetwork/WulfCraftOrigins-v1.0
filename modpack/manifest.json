@@ -211,7 +211,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 4118102,
+      "fileID": 4172186,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -223,7 +223,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 4145222,
+      "fileID": 4175833,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -558,6 +558,14 @@
       "required": true,
       "__meta": {
         "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 273279,
+      "fileID": 3907379,
+      "required": true,
+      "__meta": {
+        "name": "AntiGhost"
       }
     },
     {
@@ -1086,6 +1094,14 @@
       }
     },
     {
+      "projectID": 378979,
+      "fileID": 3906414,
+      "required": true,
+      "__meta": {
+        "name": "Borderless Window"
+      }
+    },
+    {
       "projectID": 381068,
       "fileID": 3909823,
       "required": true,
@@ -1262,7 +1278,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 4133371,
+      "fileID": 4172000,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -1339,7 +1355,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 4139553,
+      "fileID": 4174711,
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks",
@@ -1537,7 +1553,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 4167382,
+      "fileID": 4174743,
       "required": true,
       "__meta": {
         "name": "Moonlight Lib"
@@ -1643,7 +1659,7 @@
     },
     {
       "projectID": 527361,
-      "fileID": 4090940,
+      "fileID": 4174257,
       "required": true,
       "__meta": {
         "name": "Domum Ornamentum"
@@ -1759,7 +1775,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 4139704,
+      "fileID": 4174620,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core"
@@ -1894,7 +1910,7 @@
     },
     {
       "projectID": 682515,
-      "fileID": 4024595,
+      "fileID": 4127115,
       "required": true,
       "__meta": {
         "name": "Continents"
