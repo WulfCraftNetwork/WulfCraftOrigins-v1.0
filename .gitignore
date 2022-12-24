@@ -7,8 +7,3 @@ cacert.pem
 
 ### Modpack ###
 .out/
-
-### Discord Bot ###
-discord-bot/.env
-discord-bot/package-lock.json
-discord-bot/node_modules/
