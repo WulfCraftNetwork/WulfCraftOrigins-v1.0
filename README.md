@@ -1,5 +1,5 @@
 # **WulfCraftOrigins**
-*The official private repo of WulfCraft Origins.*
+*The official public repo of WulfCraft Origins.*
 
 ## **Main Goal**
 The goal is to develop an optimized Minecraft application that is able to run at player expectations during game play hours. 
