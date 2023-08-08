@@ -656,6 +656,7 @@ https://www.curseforge.com/minecraft/mc-mods/zombie-awareness
 <details>
 <summary> Click to view complete list of updated/not updated mods. </summary>
 <br>
+
 [-] Updating JourneyMap..
 
 [-] Updating MrCrayfish's Furniture Mod..
