@@ -651,3 +651,221 @@ https://www.curseforge.com/minecraft/mc-mods/yungs-extras
 ### **Zombie Awareness**
 https://www.curseforge.com/minecraft/mc-mods/zombie-awareness
 </details>
+
+## **Mods Update Dump 1.20** 
+<details>
+<summary> Click to view complete list of updated/not updated mods. </summary>
+<br>
+[-] Updating JourneyMap..
+[-] Updating MrCrayfish's Furniture Mod..
+[-] Updating EnderTanks..
+[-] Updating Aquaculture 2..
+[-] Updating Mouse Tweaks..
+[-] Updating ShetiPhianCore..
+[-] Updating ChocoCraft..
+[-] Updating The Twilight Forest..
+[-] Updating AtomicStryker's Infernal Mobs..
+[-] Updating Bookshelf..
+[-] Updating Iron Chests..
+[-] Updating Additional Banners..
+[-] Updating Fast Leaf Decay..
+[-] Updating Ding (Forge)..
+[-] Updating Cooking for Blockheads..
+[-] Updating Default Options..
+[-] Updating It's the little things..
+[-] Updating AI Improvements..
+[-] Updating Crafting Tweaks..
+[-] Updating Iron Furnaces [FORGE]..
+[!] CoroUtil does not have a compatible version. Skipping..
+[!] Zombie Awareness does not have a compatible version. Skipping..
+[!] KubeJS does not have a compatible version. Skipping..
+[-] Updating Just Enough Items (JEI)..
+[-] Updating GraveStone Mod..
+[-] Updating CraftTweaker..
+[-] Updating Cyclic..
+[-] Updating Just Enough Resources (JER)..
+[-] Updating NetherPortalFix..
+[-] Updating Reliquary Reincarnations..
+[-] Updating Dark Utilities..
+[!] Ender Crop does not have a compatible version. Skipping..
+[!] CodeChicken Lib 1.8.+ does not have a compatible version. Skipping..
+[-] Updating Silent Lib (silentlib)..
+[!] Quark does not have a compatible version. Skipping..
+[-] Updating Platforms..
+[-] Updating ForgeEndertech..
+[!] Ender Storage 1.8.+ does not have a compatible version. Skipping..
+[-] Updating Waystones..
+[-] Updating Tough As Nails..
+[-] Updating Mystical Agriculture..
+[-] Updating Scaling Health..
+[-] Updating AppleSkin..
+[!] AutoRegLib does not have a compatible version. Skipping..
+[-] Updating Controlling..
+[-] Updating Enchantment Descriptions..
+[-] Updating OpenBlocks Elevator..
+[-] Updating Client Tweaks..
+[-] Updating Paintings ++..
+[-] Updating Nature's Compass..
+[-] Updating AmbientSounds 5..
+[-] Updating EnhancedVisuals..
+[-] Updating Clumps..
+[-] Updating CreativeCore..
+[-] Updating Farming for Blockheads..
+[!] SwingThroughGrass does not have a compatible version. Skipping..
+[-] Updating Toast Control..
+[-] Updating Cucumber Library..
+[-] Updating Better Advancements..
+[!] AntiGhost does not have a compatible version. Skipping..
+[-] Updating Spice of Life: Carrot Edition..
+[-] Updating FPS Reducer..
+[-] Updating AttributeFix..
+[-] Updating Placebo..
+[-] Updating Emojiful..
+[!] Coloured Tooltips does not have a compatible version. Skipping..
+[-] Updating FastWorkbench..
+[-] Updating Progressive Bosses..
+[-] Updating Serene Seasons..
+[!] Just Mob Heads does not have a compatible version. Skipping..
+[!] Building Gadgets does not have a compatible version. Skipping..
+[-] Updating More Buckets..
+[!] Quark Oddities does not have a compatible version. Skipping..
+[!] Just Player Heads does not have a compatible version. Skipping..
+[!] Better Animals Plus does not have a compatible version. Skipping..
+[-] Updating Kiwi 🥝 (Forge)..
+[-] Updating Tips..
+[-] Updating Patchouli..
+[-] Updating Snow! Real Magic! ⛄ (Forge)..
+[-] Updating Curios API (Forge)..
+[-] Updating Artifacts..
+[!] Blue Skies does not have a compatible version. Skipping..
+[-] Updating Large Ore Deposits..
+[-] Updating Hunter illager..
+[!] Glassential does not have a compatible version. Skipping..
+[-] Updating Better Animations Collection..
+[-] Updating Jade 🔍..
+[-] Updating Dungeon Crawl..
+[-] Updating Citadel..
+[-] Updating Earth Mobs..
+[-] Updating Simple Discord Rich Presence (Forge /  Fabric)..
+[!] Collective does not have a compatible version. Skipping..
+[-] Updating XP Tome..
+[!] Villager Names does not have a compatible version. Skipping..
+[-] Updating Cloth Config API (Fabric/Forge)..
+[-] Updating Pick Up Notifier [Forge & Fabric]..
+[-] Updating Macaw's Bridges..
+[-] Updating Macaw's Roofs..
+[-] Updating Game Menu Mod Option [Forge]..
+[-] Updating Project MMO..
+[-] Updating Inventory HUD+..
+[-] Updating Login Protection[Forge/Fabric]..
+[-] Updating More Dragon Eggs..
+[!] Macaw's Furniture does not have a compatible version. Skipping..
+[-] Updating Guard Villagers..
+[!] Decorative Blocks does not have a compatible version. Skipping..
+[-] Updating Extreme sound muffler (Forge)..
+[-] Updating DivineRPG (Official)..
+[!] Goblin Traders does not have a compatible version. Skipping..
+[-] Updating Dynamic View[Forge]..
+[-] Updating Repurposed Structures (Forge)..
+[-] Updating Crash Utilities..
+[-] Updating Bed Benefits..
+[-] Updating Dark Paintings..
+[-] Updating Transparent..
+[!] Dungeons Plus does not have a compatible version. Skipping..
+[-] Updating Macaw's Doors..
+[!] Structure Gel API does not have a compatible version. Skipping..
+[-] Updating Borderless Window..
+[-] Updating Bag of Yurting..
+[!] Savage & Ravage does not have a compatible version. Skipping..
+[-] Updating Blueprint..
+[-] Updating GeckoLib..
+[-] Updating Polymorph (Fabric/Forge/Quilt)..
+[!] YUNG's Better Mineshafts (Forge) does not have a compatible version. Skipping..
+[-] Updating Builders Crafts & Additions (Forge)..
+[-] Updating Runelic..
+[!] Infernal Expansion does not have a compatible version. Skipping..
+[-] Updating Pig Pen Cipher..
+[-] Updating Farmer's Delight..
+[-] Updating Scuba Gear..
+[-] Updating Macaw's Trapdoors..
+[-] Updating BetterF3..
+[-] Updating End Remastered..
+[!] Shutup Experimental Settings! does not have a compatible version. Skipping..
+[-] Updating Chat Heads..
+[-] Updating Illagers Wear Armor..
+[-] Updating Konkrete [Forge]..
+[!] Damage Tilt does not have a compatible version. Skipping..
+[-] Updating Supplementaries..
+[!] DeLogger does not have a compatible version. Skipping..
+[!] Creatures and Beasts does not have a compatible version. Skipping..
+[-] Updating Croptopia..
+[!] Rhino does not have a compatible version. Skipping..
+[-] Updating Just Enough Professions (JEP)..
+[-] Updating Architectury API (Fabric/Forge)..
+[!] YUNG's API (Forge) does not have a compatible version. Skipping..
+[-] Updating Sophisticated Backpacks..
+[-] Updating Alex's Mobs..
+[-] Updating Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons..
+[!] Neko's Enchanted Books does not have a compatible version. Skipping..
+[-] Updating When Dungeons Arise - Forge!..
+[!] Abnormals Delight does not have a compatible version. Skipping..
+[-] Updating Entity Culling Fabric/Forge..
+[-] Updating Macaw's Fences and Walls..
+[-] Updating SuperMartijn642's Core Lib..
+[-] Updating Easy Magic [Forge & Fabric]..
+[!] Configured does not have a compatible version. Skipping..
+[-] Updating InsaneLib..
+[!] YUNG's Better Strongholds (Forge) does not have a compatible version. Skipping..
+[-] Updating Plasmo Voice..
+[!] Stalwart Dungeons does not have a compatible version. Skipping..
+[-] Updating FastSuite..
+[!] YUNG's Extras (Forge) does not have a compatible version. Skipping..
+[!] More Villagers does not have a compatible version. Skipping..
+[-] Updating Chunky (Forge)..
+[-] Updating My Server Is Compatible..
+[-] Updating Puzzles Lib [Forge & Fabric]..
+[-] Updating Farsight [Forge]..
+[-] Updating Moonlight Lib..
+[-] Updating Visual Workbench [Forge & Fabric]..
+[-] Updating Additional Lanterns..
+[-] Updating Macaw's Lights and Lamps..
+[!] Traveler's Titles (Forge) does not have a compatible version. Skipping..
+[!] YUNG's Better Dungeons (Forge) does not have a compatible version. Skipping..
+[-] Updating Terralith..
+[!] Paxi (Forge) does not have a compatible version. Skipping..
+[-] Updating Iceberg [Forge]..
+[-] Updating JourneyMap Integration..
+[-] Updating Starlight (Forge)..
+[-] Updating Domum Ornamentum..
+[-] Updating The Graveyard (FORGE)..
+[-] Updating Balm (Forge Edition)..
+[-] Updating Just Enough Effect Descriptions (JEED)..
+[!] YUNG's Bridges (Forge) does not have a compatible version. Skipping..
+[-] Updating Better Compatibility Checker..
+[-] Updating Amplified Nether..
+[-] Updating Towers of the Wild: Additions..
+[-] Updating Creeper Overhaul..
+[-] Updating Just Zoom [Forge]..
+[-] Updating Rubidium..
+[-] Updating Server Performance - Smooth Chunk Save[Forge/Fabric]..
+[!] More Babies (Forge & Fabric)  does not have a compatible version. Skipping..
+[-] Updating Sophisticated Core..
+[!] It Shall Not Tick (ISNT) does not have a compatible version. Skipping..
+[!] Towns and Towers does not have a compatible version. Skipping..
+[!] Naturalist does not have a compatible version. Skipping..
+[!] Every Compat (Wood Good) does not have a compatible version. Skipping..
+[-] Updating Fastload..
+[!] YUNG's Better Desert Temples (Forge) does not have a compatible version. Skipping..
+[!] YUNG's Better Witch Huts (Forge) does not have a compatible version. Skipping..
+[-] Updating Smooth Boot (Reloaded)..
+[-] Updating No Chat Reports..
+[-] Updating Structory..
+[-] Updating MVS - Moog's Voyager Structures..
+[-] Updating TexTrue's Rubidium Options..
+[-] Updating Canary..
+[!] Saturn does not have a compatible version. Skipping..
+[-] Updating Continents..
+[!] Pluto does not have a compatible version. Skipping..
+[!] YUNG's Better Ocean Monuments (Forge) does not have a compatible version. Skipping..
+[-] Updating CorgiLib..
+</details>
